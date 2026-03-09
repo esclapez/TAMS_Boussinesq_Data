@@ -3,7 +3,7 @@
 This repository contains data and processing scripts for the
 paper entitle:
 `Constructing efficient score functions for rare event simulation in high-dimensional ocean-climate models`
-by L. Esclapez, V. Jacques-Dumas, R. B\"orner, L. Soucasse and H. A. Dijkstra
+by L. Esclapez, V. Jacques-Dumas, R. Börner, L. Soucasse and H. A. Dijkstra
 
 submitted for publication to Chaos.
 
